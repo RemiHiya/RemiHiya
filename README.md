@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">
+  𝙷𝙴𝙻𝙻𝙾, 𝙸'𝙼 𝚁𝙴𝙼𝙸
+</h1>
+<div>
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=RemiHiya&theme=dark&hide_border=true&include_all_commits=true&count_private=false"/>-->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemiHiya&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 
-<!--
-**RemiHiya/RemiHiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 - Currently enrolled as a student in a computer engineering school.
 
-Here are some ideas to get you started:
+💻 - I spend my free time developing games and applications.
+- Proficient in Unreal Engine game development.
+- Skilled in Kotlin application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💫 - Committed to expanding my skills in computer engineering.
+</div>
